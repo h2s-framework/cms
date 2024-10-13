@@ -3,7 +3,6 @@
   "description": "Simple CMS Implementation for H2S framework",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "version": "0.1.0",
   "type": "library",
   "authors": [
     {
